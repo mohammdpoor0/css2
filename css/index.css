@@ -1,0 +1,17 @@
+.div1{
+    border: 1px blueviolet solid;
+}
+.div2{
+    border-style: solid;
+    border-width: 1px;
+    border-color: blueviolet;
+}
+.div3{
+    border-style: groove dashed double solid;
+    border-color: rgb(252, 72, 12) rgb(240, 255, 35);
+    border-width: 10px 20px;
+}
+.div4{
+    border-left-style: solid;
+    border-right-style: double;
+}
